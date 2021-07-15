@@ -1,8 +1,6 @@
 # sendmail
 
-<<<<<<< HEAD
-Node.Js NodeMailer &amp; Vue.Js &amp; Vuetify
-=======
+# Node.Js NodeMailer &amp; Vue.Js &amp; Vuetify
 
 ## Project setup
 
@@ -23,7 +21,3 @@ npm run build
 ```
 
 ### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-> > > > > > > 8f9f99a (init)
